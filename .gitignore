@@ -133,3 +133,7 @@ frontend/Dockerfile
 docker-compose.yml
 api/init.sh
 api/wait-for-it.sh
+
+# Secrets generated for Mender
+keys-generated
+.key
